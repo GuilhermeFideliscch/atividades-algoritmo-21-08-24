@@ -5,10 +5,10 @@ Var
 
 
 Inicio
-      para c de 1 até 10 faca
-      para t de 1 até 10 faca
+      para c de 1 atÃ© 10 faca
+      para t de 1 atÃ© 10 faca
       escreval("")
-      escreval(t," x",c," = ",/ t*c)
+      escreval(t," x",c," = ", t*c)
       fimpara
       fimpara
 
